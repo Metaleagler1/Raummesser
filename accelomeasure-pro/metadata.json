@@ -1,9 +1,0 @@
-
-{
-  "name": "AcceloMeasure Pro",
-  "description": "Verbesserte Distanzmessung mit Sensor-Fusion (Beschleunigung & Gyroskop) und automatischer Bias-Kalibrierung.",
-  "requestFramePermissions": [
-    "accelerometer",
-    "gyroscope"
-  ]
-}
